@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+rxversion="6.1"
+id="56dea0c8-e590-44d7-b278-ca58ef81ce7b"
+embeddedrepository="False"
+mode="Global">
+	<name>
+		AddSampleTypeUserCode
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="AddSampleTypeUserCode"
+	namespace="MyAssaysDesktopExplorer"/>
+	<variables/>
+	<recorditems>
+		<userrecorditem
+		enabled="True"
+		optional="False"
+		methodname="AddSampleTypeUseCode"
+		varname="">
+			<comment/>
+			<bindings/>
+			<arguments
+			id="f4771c2a-fbff-4770-b3cd-24391d21cc1b">
+				<argument
+				argname="name"
+				id="ce493683-2951-42cc-9460-2e3892170c31">
+					<argvaluetype>
+						System.String
+					</argvaluetype>
+					<argvalue>
+						1x1 (1)
+					</argvalue>
+				</argument>
+			</arguments>
+		</userrecorditem>
+	</recorditems>
+	<repository
+	name="MyAssaysDesktopExplorerRepository"
+	id="7e2b66d6-16b7-445f-8f2e-efa3ce33ff94"
+	rxversion="6.1"
+	relativepath="MyAssaysDesktopExplorerRepository.rxrep">
+		<codegen
+		classname="MyAssaysDesktopExplorerRepository"
+		namespace="MyAssaysDesktopExplorer"/>
+		<rootfolder
+		name="_rootdummy_"
+		id="b9421caf-34ef-41da-99ff-a67eb9dcd081"/>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		AddSampleTypeUserCode.UserCode.cs
+	</usercodefile>
+	<references/>
+</recordtable>

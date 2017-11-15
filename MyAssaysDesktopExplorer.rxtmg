@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="6.1">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroupdef
+			name="StartAndNewProtocol"
+			id="67d5a9fd-4a1c-4393-8390-b466eceb4a73"/>
+			<testmodule
+			name="NewProtocol"
+			id="90e38818-18ae-4941-a823-f4b71cfde8b0"
+			ref="6c560d9e-e426-4a2a-90b8-ce3ac5171024"
+			type="Recording"/>
+			<modulegroups
+			name="MyAssaysDesktopExplorer"
+			id="f32e32d0-54ce-41db-8b59-7f054bd3b4a7"/>
+			<testmodule
+			name="StartSUT"
+			id="fd62c43c-58d9-4eb7-a55d-55a8432f0f4f"
+			ref="6821b041-8fba-4378-ac2d-7fd4f4dadcf1"
+			type="Recording"/>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			name="MyAssaysDesktopExplorer"
+			id="f32e32d0-54ce-41db-8b59-7f054bd3b4a7">
+				<modulegroupdef
+				name="StartAndNewProtocol"
+				id="67d5a9fd-4a1c-4393-8390-b466eceb4a73">
+					<testmodule
+					name="StartSUT"
+					id="fd62c43c-58d9-4eb7-a55d-55a8432f0f4f"/>
+					<testmodule
+					name="NewProtocol"
+					id="90e38818-18ae-4941-a823-f4b71cfde8b0"/>
+				</modulegroupdef>
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
+</modulegroupdoc>

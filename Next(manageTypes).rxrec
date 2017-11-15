@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+rxversion="6.1"
+id="bcd560fd-711b-4c0c-8eb3-ab5dc44f3003"
+embeddedrepository="False"
+mode="Desktop">
+	<name>
+		Next_manageTypes_
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Next_manageTypes_"
+	namespace="MyAssaysDesktopExplorer"/>
+	<variables/>
+	<recorditems>
+		<mouseitem
+		enabled="True"
+		optional="False"
+		duration="500ms"
+		searchpropertyid="28d4dfe4-3860-4d40-85e2-402fb363348c"
+		action="Click"
+		button="Left"
+		movetime="300ms"
+		sx="900"
+		sy="570"
+		loc="Center">
+			<comment/>
+			<bindings/>
+			<info
+			sourcename="Recorder"
+			id="d61b0b04-cec4-4a86-8e0a-a00721dcf0c8">
+				<element
+				role="button"
+				prefcap="button"
+				capabilities="wpfelement"
+				flavor="wpf"
+				visible="True"
+				valid="True"
+				enabled="True"
+				hasfocus="False"
+				dontcache="False"
+				index="0"
+				rect="883,560,80,24"
+				snapElem="">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Next
+					</attribute>
+					<attribute
+					name="basetype"
+					type="System.String">
+						System.Windows.Controls.Button
+					</attribute>
+					<attribute
+					name="fulltype"
+					type="System.String">
+						System.Windows.Controls.Button
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						Button
+					</attribute>
+					<dynamicattribute
+					name="ActualHeight"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.ActualHeight property of type Double."/>
+					<dynamicattribute
+					name="ActualWidth"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.ActualWidth property of type Double."/>
+					<dynamicattribute
+					name="AllowDrop"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.AllowDrop property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="Background"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.Background property of type Brush."
+					readonly="False"/>
+					<dynamicattribute
+					name="BindingGroup"
+					type="System.Windows.Data.BindingGroup, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.BindingGroup property of type BindingGroup."
+					readonly="False"/>
+					<dynamicattribute
+					name="BitmapEffect"
+					type="System.Windows.Media.Effects.BitmapEffect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.BitmapEffect property of type BitmapEffect."
+					readonly="False"/>
+					<dynamicattribute
+					name="BitmapEffectInput"
+					type="System.Windows.Media.Effects.BitmapEffectInput, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.BitmapEffectInput property of type BitmapEffectInput."
+					readonly="False"/>
+					<dynamicattribute
+					name="BorderBrush"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.BorderBrush property of type Brush."
+					readonly="False"/>
+					<dynamicattribute
+					name="CacheMode"
+					type="System.Windows.Media.CacheMode, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.CacheMode property of type CacheMode."
+					readonly="False"/>
+					<dynamicattribute
+					name="ClickMode"
+					type="System.Windows.Controls.ClickMode, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.ClickMode property of type ClickMode."
+					readonly="False"/>
+					<dynamicattribute
+					name="Clip"
+					type="System.Windows.Media.Geometry, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.Clip property of type Geometry."
+					readonly="False"/>
+					<dynamicattribute
+					name="ClipToBounds"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.ClipToBounds property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="CommandParameter"
+					type="System.Object"
+					description="The WPF System.Windows.Controls.Button.CommandParameter property of type Object."
+					readonly="False"/>
+					<dynamicattribute
+					name="Content"
+					type="System.Object"
+					description="The WPF System.Windows.Controls.Button.Content property of type Object."
+					readonly="False"/>
+					<dynamicattribute
+					name="ContentStringFormat"
+					type="System.String"
+					description="The WPF System.Windows.Controls.Button.ContentStringFormat property of type String."
+					readonly="False"/>
+					<dynamicattribute
+					name="ContextMenu"
+					type="System.Windows.Controls.ContextMenu, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.ContextMenu property of type ContextMenu."
+					readonly="False"/>
+					<dynamicattribute
+					name="DataContext"
+					type="System.Object"
+					description="The WPF System.Windows.Controls.Button.DataContext property of type Object."
+					readonly="False"/>
+					<dynamicattribute
+					name="Effect"
+					type="System.Windows.Media.Effects.Effect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.Effect property of type Effect."
+					readonly="False"/>
+					<dynamicattribute
+					name="FlowDirection"
+					type="System.Windows.FlowDirection, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.FlowDirection property of type FlowDirection."
+					readonly="False"/>
+					<dynamicattribute
+					name="Focusable"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.Focusable property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="FontSize"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.FontSize property of type Double."
+					readonly="False"/>
+					<dynamicattribute
+					name="ForceCursor"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.ForceCursor property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="Foreground"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.Foreground property of type Brush."
+					readonly="False"/>
+					<dynamicattribute
+					name="HasContent"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.HasContent property of type Boolean."/>
+					<dynamicattribute
+					name="Height"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.Height property of type Double."
+					readonly="False"/>
+					<dynamicattribute
+					name="HorizontalAlignment"
+					type="System.Windows.HorizontalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.HorizontalAlignment property of type HorizontalAlignment."
+					readonly="False"/>
+					<dynamicattribute
+					name="HorizontalContentAlignment"
+					type="System.Windows.HorizontalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.HorizontalContentAlignment property of type HorizontalAlignment."
+					readonly="False"/>
+					<dynamicattribute
+					name="IsCancel"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.IsCancel property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="IsDefault"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.IsDefault property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="IsDefaulted"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.IsDefaulted property of type Boolean."/>
+					<dynamicattribute
+					name="IsHitTestVisible"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.IsHitTestVisible property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="IsManipulationEnabled"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.IsManipulationEnabled property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="IsPressed"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.IsPressed property of type Boolean."/>
+					<dynamicattribute
+					name="IsTabStop"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.IsTabStop property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="LayoutTransform"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.LayoutTransform property of type Transform."
+					readonly="False"/>
+					<dynamicattribute
+					name="MaxHeight"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.MaxHeight property of type Double."
+					readonly="False"/>
+					<dynamicattribute
+					name="MaxWidth"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.MaxWidth property of type Double."
+					readonly="False"/>
+					<dynamicattribute
+					name="MinHeight"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.MinHeight property of type Double."
+					readonly="False"/>
+					<dynamicattribute
+					name="MinWidth"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.MinWidth property of type Double."
+					readonly="False"/>
+					<dynamicattribute
+					name="Opacity"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.Opacity property of type Double."
+					readonly="False"/>
+					<dynamicattribute
+					name="OpacityMask"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.OpacityMask property of type Brush."
+					readonly="False"/>
+					<dynamicattribute
+					name="OverridesDefaultStyle"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.OverridesDefaultStyle property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="RenderTransform"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.RenderTransform property of type Transform."
+					readonly="False"/>
+					<dynamicattribute
+					name="RenderTransformOrigin"
+					type="System.Windows.Point, WindowsBase, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.RenderTransformOrigin property of type Point."
+					readonly="False"/>
+					<dynamicattribute
+					name="SnapsToDevicePixels"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.SnapsToDevicePixels property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="TabIndex"
+					type="System.Int32"
+					description="The WPF System.Windows.Controls.Button.TabIndex property of type Int32."
+					readonly="False"/>
+					<dynamicattribute
+					name="Tag"
+					type="System.Object"
+					description="The WPF System.Windows.Controls.Button.Tag property of type Object."
+					readonly="False"/>
+					<dynamicattribute
+					name="ToolTip"
+					type="System.Object"
+					description="The WPF System.Windows.Controls.Button.ToolTip property of type Object."
+					readonly="False"/>
+					<dynamicattribute
+					name="Uid"
+					type="System.String"
+					description="The WPF System.Windows.Controls.Button.Uid property of type String."
+					weight="150"
+					readonly="False"/>
+					<dynamicattribute
+					name="UseLayoutRounding"
+					type="System.Boolean"
+					description="The WPF System.Windows.Controls.Button.UseLayoutRounding property of type Boolean."
+					readonly="False"/>
+					<dynamicattribute
+					name="VerticalAlignment"
+					type="System.Windows.VerticalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.VerticalAlignment property of type VerticalAlignment."
+					readonly="False"/>
+					<dynamicattribute
+					name="VerticalContentAlignment"
+					type="System.Windows.VerticalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.VerticalContentAlignment property of type VerticalAlignment."
+					readonly="False"/>
+					<dynamicattribute
+					name="Visibility"
+					type="System.Windows.Visibility, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+					description="The WPF System.Windows.Controls.Button.Visibility property of type Visibility."
+					readonly="False"/>
+					<dynamicattribute
+					name="Width"
+					type="System.Double"
+					description="The WPF System.Windows.Controls.Button.Width property of type Double."
+					readonly="False"/>
+				</element>
+				<path>
+					/form[@wpfnative='True' and @title='New Protocol Wizard' and @processname='MyAssays.Desktop.Explorer']/element/container/container[1]/container/button[@text='Next']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="6a23b606-0a5b-4f7d-a295-a7ec7669faa0">
+				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
+tif7Jbf8+8X/AHwKPslt/wA+8X/fAqDyj/z0k/7+N/jR5R/56Sf9/G/xpWiPnn3/ABJI9PtY+kIb
+gKN5L4A6AZzgc0/7Jbf8+8X/AHwKg8o/89JP+/jf40eUf+ekn/fxv8adkClJbE/2S2/594v++BR9
+ktv+feL/AL4FQeUf+ekn/fxv8aPKP/PST/v43+NK0Q559/xJ/slt/wA+8X/fAo+yW3/PvF/3wKg8
+o/8APST/AL+N/jR5R/56Sf8Afxv8aLRDnn3/ABJ/slt/z7xf98CnRwQxNujiRD0yqgVW8o/89JP+
+/jf40vlH/npJ/wB/G/xp2iDnNkl3/wAsv9/+hpyColh+YEs7Y5GXJqwooZKHinU0U6kMKKKKACii
+igAooooAKKKKAIdtG2pMUYoAj20bakxRigCPbRtqTFGKAI9tG2pMUYoAj20bakxRigCPbRtqTFGK
+AI9tG2pMUYoAj20bakxRigCPbRtqTFGKAI9tG2pMUYoAj20bakxRigBgFOAp2KKAClpKKAFopKKA
+FopKKAFopKKAFopKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+ASiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigD/2Q==
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	name="MyAssaysDesktopExplorerRepository"
+	id="7e2b66d6-16b7-445f-8f2e-efa3ce33ff94"
+	rxversion="6.1"
+	relativepath="MyAssaysDesktopExplorerRepository.rxrep">
+		<codegen
+		classname="MyAssaysDesktopExplorerRepository"
+		namespace="MyAssaysDesktopExplorer"/>
+		<rootfolder
+		name="_rootdummy_"
+		id="b9421caf-34ef-41da-99ff-a67eb9dcd081"/>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Next_manageTypes_.UserCode.cs
+	</usercodefile>
+	<references/>
+</recordtable>
